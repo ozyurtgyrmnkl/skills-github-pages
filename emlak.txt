@@ -1,0 +1,1728 @@
+<!DOCTYPE html>
+<!-- saved from url=(0031)https://www.usakkuzeyemlak.com/ -->
+<html lang="tr" class="wf-quicksand-n4-active wf-quicksand-n7-active wf-sourcesanspro-n4-active wf-sourcesanspro-i4-active wf-sourcesanspro-n7-active wf-active"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#2e65d3">
+<title>Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak</title>
+<link rel="stylesheet" type="text/css" href="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/style.css">
+<script src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/webfont.js.indir" type="text/javascript" async=""></script><script>
+WebFontConfig = {
+    google: { families: [ 'Quicksand:400,700:latin,latin-ext','Source Sans Pro:400,400i,700:latin,latin-ext' ] }
+  };
+</script>
+<link rel="shortcut icon" href="https://www.usakkuzeyemlak.com/wp-content/uploads/2019/01/favicon.png" type="image/x-icon">
+<link rel="alternate" type="application/rss+xml" title="Uşak Kuzey Emlak RSS Feed" href="https://www.usakkuzeyemlak.com/feed/">
+<link rel="pingback" href="https://www.usakkuzeyemlak.com/xmlrpc.php">
+<!--[if lt IE 9]><script src="https://www.usakkuzeyemlak.com/wp-content/themes/vadiemlak/js/html5.js"></script><![endif]-->
+
+<!-- This site is optimized with the Yoast SEO plugin v12.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Uşak Emlak İlanları">
+<link rel="canonical" href="https://www.usakkuzeyemlak.com/">
+<link rel="next" href="https://www.usakkuzeyemlak.com/page/2/">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Uşak Kuzey Emlak - Uşak Emlak İlanları">
+<meta property="og:description" content="Uşak Emlak İlanları">
+<meta property="og:url" content="https://www.usakkuzeyemlak.com/">
+<meta property="og:site_name" content="Uşak Kuzey Emlak">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Uşak Emlak İlanları">
+<meta name="twitter:title" content="Uşak Kuzey Emlak - Uşak Emlak İlanları">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.usakkuzeyemlak.com/#website","url":"https://www.usakkuzeyemlak.com/","name":"U\u015fak Kuzey Emlak","potentialAction":{"@type":"SearchAction","target":"https://www.usakkuzeyemlak.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://www.usakkuzeyemlak.com/#webpage","url":"https://www.usakkuzeyemlak.com/","inLanguage":"tr","name":"U\u015fak Kuzey Emlak - U\u015fak Emlak \u0130lanlar\u0131","isPartOf":{"@id":"https://www.usakkuzeyemlak.com/#website"},"description":"U\u015fak Emlak \u0130lanlar\u0131"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="https://s.w.org/">
+<link rel="stylesheet" id="wp-block-library-css" href="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/style.min.css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/styles.css" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/pum-site-styles.css" media="all">
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/hesaplama.js.indir"></script>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.usakkuzeyemlak.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="stylesheet" href="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/css" media="all"><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body data-rsssl="1" class="home blog wpb-js-composer js-comp-ver-5.7 vc_responsive">
+<header id="head">
+<div class="site-head section group">
+	<div class="wrap">
+		<div id="logo" class="col span3">
+<h1>	<a href="https://www.usakkuzeyemlak.com/" title="Uşak Kuzey Emlak">
+		<img src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/usakkuzeyemlak.png" alt="Uşak Kuzey Emlak">
+	</a>
+</h1>		</div>
+	
+	<div id="navmenu" class="col span9">
+		<nav>
+<a class="mobnav_bar" href="https://www.usakkuzeyemlak.com/#"></a><div class="mobil_menu"><a class="mobnav_close" href="https://www.usakkuzeyemlak.com/#"><i class="icon-cancel"></i></a><ul id="menu-ana-menu" class="mobilmenu"><li id="menu-item-58" class="icon-home menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home active"><a href="https://www.usakkuzeyemlak.com/"><span>Anasayfa</span></a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.usakkuzeyemlak.com/kategori/daire/"><span>Daire</span></a></li>
+<li id="menu-item-143" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.usakkuzeyemlak.com/kategori/apart/"><span>Apart</span></a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.usakkuzeyemlak.com/kategori/arsa/"><span>Arsa</span></a></li>
+<li id="menu-item-145" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.usakkuzeyemlak.com/kategori/isyeri/"><span>İşyeri</span></a></li>
+<li id="menu-item-57" class="icon-phone menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.usakkuzeyemlak.com/iletisim/"><span>İletişim</span></a></li>
+</ul></div><ul id="anamenu" class="sf-menu sf-js-enabled sf-arrows" style="touch-action: pan-y;"><li class="icon-home menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home active"><a href="https://www.usakkuzeyemlak.com/"><span>Anasayfa</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.usakkuzeyemlak.com/kategori/daire/"><span>Daire</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.usakkuzeyemlak.com/kategori/apart/"><span>Apart</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.usakkuzeyemlak.com/kategori/arsa/"><span>Arsa</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://www.usakkuzeyemlak.com/kategori/isyeri/"><span>İşyeri</span></a></li>
+<li class="icon-phone menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.usakkuzeyemlak.com/iletisim/"><span>İletişim</span></a></li>
+</ul>		</nav>
+	</div>
+<div class="clear"></div>
+	</div>
+</div>
+</header><section class="anaarama">
+	<div class="wrap">
+		<div class="arama_content col span7">
+		
+		</div>
+		<div class="aramaform col span5">
+			
+		</div>
+		<div class="clear"></div>
+	</div>
+</section>
+<section class="onecikanilanlar">
+	<div class="wrap">
+		<h2 class="hbaslik"><i class="icon-star"></i> Öne Çıkan <b>İlanlar</b></h2>
+<div class="emlak_list slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: block;">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 11970px; transform: translate3d(-1995px, 0px, 0px);"><div class="item slick-slide slick-cloned" data-slick-index="-4" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire-2/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-1-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire-2/" rel="bookmark" tabindex="-1">ÜNALAN MH.DE SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire/" rel="bookmark" tabindex="-1">ÜNALAN MH.DE SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/cay-kenarinda-satilik-mustakil-ev/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/36ecffd7-af4a-458e-bd21-1cd6dca1686e_1024-267x185.png" class="post-image wp-post-image" alt="ÇAY KENARINDA SATILIK MÜSTAKİL EV (YENİ AŞEVİ YANI)" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/cay-kenarinda-satilik-mustakil-ev/" rel="bookmark" tabindex="-1">ÇAY KENARINDA SATILIK MÜSTAKİL EV (YENİ AŞEVİ YANI)</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">Köme Mahallesi</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Bina</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/sekerevlerinde-satilik-21-daire-3/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/9-1-267x185.png" class="post-image wp-post-image" alt="ŞEKEREVLERİNDE SATILIK 2+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/sekerevlerinde-satilik-21-daire-3/" rel="bookmark" tabindex="-1">ŞEKEREVLERİNDE SATILIK 2+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ATATÜRK</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 2+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="0" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/merkezde-satilik-41-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Yeşil-Krem-Gayrimenkul-İnstagram-Gönderisi-1-267x185.png" class="post-image wp-post-image" alt="MERKEZDE SATILIK 4+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/merkezde-satilik-41-daire/" rel="bookmark" tabindex="-1">MERKEZDE SATILIK 4+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 4+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="1" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/nuri-seker-cd-uzeri-satilik-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Kahverengi-sarı-modern-minimalist-kiralık-ve-satılık-daire-emlak-ilanları-instagram-gönderisi-267x185.png" class="post-image wp-post-image" alt="NURİ ŞEKER CD. ÜZERİ SATILIK DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/nuri-seker-cd-uzeri-satilik-daire/" rel="bookmark" tabindex="-1">NURİ ŞEKER CD. ÜZERİ SATILIK DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">SARAYALTI MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/ulubey-yolu-uzeri-site-ici-satilik-31-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Mavi-Modern-Emlak-ve-İnşaat-Ev-Satış-İlanı-Instagram-Gönderisi-1-267x185.png" class="post-image wp-post-image" alt="ULUBEY YOLU ÜZERİ SİTE İÇİ SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/ulubey-yolu-uzeri-site-ici-satilik-31-daire/" rel="bookmark" tabindex="-1">ULUBEY YOLU ÜZERİ SİTE İÇİ SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">KUYUCAK</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-current slick-active" data-slick-index="3" aria-hidden="false" tabindex="0" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/izmir-yolu-uzeri-satilik-21-daire/" tabindex="0">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185(1).png" class="post-image wp-post-image" alt="İZMİR YOLU ÜZERİ SATILIK 2+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/izmir-yolu-uzeri-satilik-21-daire/" rel="bookmark" tabindex="0">İZMİR YOLU ÜZERİ SATILIK 2+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 2+1</span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-active" data-slick-index="4" aria-hidden="false" tabindex="0" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/bolmede-satilik-tarla/" tabindex="0">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Turuncu-ve-Beyaz-Sade-Emlak-Şirketi-Instagram-Gönderisi-267x185.png" class="post-image wp-post-image" alt="BÖLMEDE SATILIK TARLA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/bolmede-satilik-tarla/" rel="bookmark" tabindex="0">BÖLMEDE SATILIK TARLA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">BÖLME</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Tarla</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-active" data-slick-index="5" aria-hidden="false" tabindex="0" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/yuzbesevlerde-satilik-41-daire/" tabindex="0">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Orange-Modern-Real-Estate-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="YÜZBEŞEVLERDE SATILIK 4+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/yuzbesevlerde-satilik-41-daire/" rel="bookmark" tabindex="0">YÜZBEŞEVLERDE SATILIK 4+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">CUMHURİYET MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 4+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-active" data-slick-index="6" aria-hidden="false" tabindex="0" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-luks-daireler/" tabindex="0">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Mavi-Kırmızı-Dikkat-Çekici-Gayrimenkul-Instagram-Gönderisi-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK LÜKS DAİRELER" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-luks-daireler/" rel="bookmark" tabindex="0">ÜNALAN MH.DE SATILIK LÜKS DAİRELER</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 1+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/sorkunda-satilik-tarla-ve-bag-evi/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185(2).png" class="post-image wp-post-image" alt="SORKUNDA SATILIK TARLA VE BAĞ EVİ" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/sorkunda-satilik-tarla-ve-bag-evi/" rel="bookmark" tabindex="-1">SORKUNDA SATILIK TARLA VE BAĞ EVİ</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">SORKUN</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Tarla</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-cift-parsel/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Sade-Modern-Mavi-Zarif-Ev-İlanı-Instagram-Gönderisi-267x185.png" class="post-image wp-post-image" alt="FATİH MH.DE SATILIK ÇİFT PARSEL" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-cift-parsel/" rel="bookmark" tabindex="-1">FATİH MH.DE SATILIK ÇİFT PARSEL</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">FATİH MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Arsa</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="9" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/kemaloz-mh-de-satilik-site-ici-41-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/White-Gray-Modern-Real-Estate-Sale-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="KEMALÖZ MH.DE SATILIK SİTE İÇİ 4+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/kemaloz-mh-de-satilik-site-ici-41-daire/" rel="bookmark" tabindex="-1">KEMALÖZ MH.DE SATILIK SİTE İÇİ 4+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">KEMALÖZ MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 4+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="10" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/mende-koyunde-satilik-tarla/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Red-Navy-Blue-Real-Estate-Just-Sold-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="MENDE KÖYÜNDE SATILIK TARLA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/mende-koyunde-satilik-tarla/" rel="bookmark" tabindex="-1">MENDE KÖYÜNDE SATILIK TARLA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">MENDE KÖYÜ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Tarla</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="11" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-11-apart/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Brown-Simple-Real-Estate-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK 1+1 APART" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-11-apart/" rel="bookmark" tabindex="-1">ÜNALAN MH.DE SATILIK 1+1 APART</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 1+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="12" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-kose-arsa/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Green-Real-Estate-Promotion-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="FATİH MH.DE SATILIK KÖŞE ARSA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-kose-arsa/" rel="bookmark" tabindex="-1">FATİH MH.DE SATILIK KÖŞE ARSA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">FATİH MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Arsa</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="13" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/fevzi-cakmak-mh-de-satilik-21-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185(3).png" class="post-image wp-post-image" alt="FEVZİ ÇAKMAK MH.DE SATILIK 2+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/fevzi-cakmak-mh-de-satilik-21-daire/" rel="bookmark" tabindex="-1">FEVZİ ÇAKMAK MH.DE SATILIK 2+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">FEVZİ ÇAKMAK MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 2+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="14" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/demirorende-satilik-arsa/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Instagram-Gönderisi-1080x1080-px-3-1-267x185.jpeg" class="post-image wp-post-image" alt="DEMİRÖRENDE SATILIK ARSA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/demirorende-satilik-arsa/" rel="bookmark" tabindex="-1">DEMİRÖRENDE SATILIK ARSA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">DEMİRÖREN KÖYÜ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Arsa</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="15" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire-2/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-1-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire-2/" rel="bookmark" tabindex="-1">ÜNALAN MH.DE SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="16" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire/" rel="bookmark" tabindex="-1">ÜNALAN MH.DE SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="17" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/cay-kenarinda-satilik-mustakil-ev/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/36ecffd7-af4a-458e-bd21-1cd6dca1686e_1024-267x185.png" class="post-image wp-post-image" alt="ÇAY KENARINDA SATILIK MÜSTAKİL EV (YENİ AŞEVİ YANI)" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/cay-kenarinda-satilik-mustakil-ev/" rel="bookmark" tabindex="-1">ÇAY KENARINDA SATILIK MÜSTAKİL EV (YENİ AŞEVİ YANI)</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">Köme Mahallesi</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Bina</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide" data-slick-index="18" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/sekerevlerinde-satilik-21-daire-3/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/9-1-267x185.png" class="post-image wp-post-image" alt="ŞEKEREVLERİNDE SATILIK 2+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/sekerevlerinde-satilik-21-daire-3/" rel="bookmark" tabindex="-1">ŞEKEREVLERİNDE SATILIK 2+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ATATÜRK</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 2+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="19" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/merkezde-satilik-41-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Yeşil-Krem-Gayrimenkul-İnstagram-Gönderisi-1-267x185.png" class="post-image wp-post-image" alt="MERKEZDE SATILIK 4+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/merkezde-satilik-41-daire/" rel="bookmark" tabindex="-1">MERKEZDE SATILIK 4+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 4+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="20" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/nuri-seker-cd-uzeri-satilik-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Kahverengi-sarı-modern-minimalist-kiralık-ve-satılık-daire-emlak-ilanları-instagram-gönderisi-267x185.png" class="post-image wp-post-image" alt="NURİ ŞEKER CD. ÜZERİ SATILIK DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/nuri-seker-cd-uzeri-satilik-daire/" rel="bookmark" tabindex="-1">NURİ ŞEKER CD. ÜZERİ SATILIK DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">SARAYALTI MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="21" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/ulubey-yolu-uzeri-site-ici-satilik-31-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Mavi-Modern-Emlak-ve-İnşaat-Ev-Satış-İlanı-Instagram-Gönderisi-1-267x185.png" class="post-image wp-post-image" alt="ULUBEY YOLU ÜZERİ SİTE İÇİ SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/ulubey-yolu-uzeri-site-ici-satilik-31-daire/" rel="bookmark" tabindex="-1">ULUBEY YOLU ÜZERİ SİTE İÇİ SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">KUYUCAK</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="22" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/izmir-yolu-uzeri-satilik-21-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185(1).png" class="post-image wp-post-image" alt="İZMİR YOLU ÜZERİ SATILIK 2+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/izmir-yolu-uzeri-satilik-21-daire/" rel="bookmark" tabindex="-1">İZMİR YOLU ÜZERİ SATILIK 2+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 2+1</span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="23" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/bolmede-satilik-tarla/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Turuncu-ve-Beyaz-Sade-Emlak-Şirketi-Instagram-Gönderisi-267x185.png" class="post-image wp-post-image" alt="BÖLMEDE SATILIK TARLA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/bolmede-satilik-tarla/" rel="bookmark" tabindex="-1">BÖLMEDE SATILIK TARLA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">BÖLME</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Tarla</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="24" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/yuzbesevlerde-satilik-41-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Orange-Modern-Real-Estate-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="YÜZBEŞEVLERDE SATILIK 4+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/yuzbesevlerde-satilik-41-daire/" rel="bookmark" tabindex="-1">YÜZBEŞEVLERDE SATILIK 4+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">CUMHURİYET MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 4+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="25" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-luks-daireler/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Mavi-Kırmızı-Dikkat-Çekici-Gayrimenkul-Instagram-Gönderisi-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK LÜKS DAİRELER" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-luks-daireler/" rel="bookmark" tabindex="-1">ÜNALAN MH.DE SATILIK LÜKS DAİRELER</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 1+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="26" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/sorkunda-satilik-tarla-ve-bag-evi/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185(2).png" class="post-image wp-post-image" alt="SORKUNDA SATILIK TARLA VE BAĞ EVİ" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/sorkunda-satilik-tarla-ve-bag-evi/" rel="bookmark" tabindex="-1">SORKUNDA SATILIK TARLA VE BAĞ EVİ</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">SORKUN</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Tarla</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="27" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-cift-parsel/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Sade-Modern-Mavi-Zarif-Ev-İlanı-Instagram-Gönderisi-267x185.png" class="post-image wp-post-image" alt="FATİH MH.DE SATILIK ÇİFT PARSEL" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-cift-parsel/" rel="bookmark" tabindex="-1">FATİH MH.DE SATILIK ÇİFT PARSEL</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">FATİH MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Arsa</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="28" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/kemaloz-mh-de-satilik-site-ici-41-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/White-Gray-Modern-Real-Estate-Sale-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="KEMALÖZ MH.DE SATILIK SİTE İÇİ 4+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/kemaloz-mh-de-satilik-site-ici-41-daire/" rel="bookmark" tabindex="-1">KEMALÖZ MH.DE SATILIK SİTE İÇİ 4+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">KEMALÖZ MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 4+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="29" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/mende-koyunde-satilik-tarla/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Red-Navy-Blue-Real-Estate-Just-Sold-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="MENDE KÖYÜNDE SATILIK TARLA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/mende-koyunde-satilik-tarla/" rel="bookmark" tabindex="-1">MENDE KÖYÜNDE SATILIK TARLA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">MENDE KÖYÜ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Tarla</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="30" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-11-apart/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Brown-Simple-Real-Estate-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK 1+1 APART" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-11-apart/" rel="bookmark" tabindex="-1">ÜNALAN MH.DE SATILIK 1+1 APART</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 1+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="31" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-kose-arsa/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Green-Real-Estate-Promotion-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="FATİH MH.DE SATILIK KÖŞE ARSA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-kose-arsa/" rel="bookmark" tabindex="-1">FATİH MH.DE SATILIK KÖŞE ARSA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">FATİH MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Arsa</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="32" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/fevzi-cakmak-mh-de-satilik-21-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185(3).png" class="post-image wp-post-image" alt="FEVZİ ÇAKMAK MH.DE SATILIK 2+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/fevzi-cakmak-mh-de-satilik-21-daire/" rel="bookmark" tabindex="-1">FEVZİ ÇAKMAK MH.DE SATILIK 2+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">FEVZİ ÇAKMAK MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 2+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="33" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/demirorende-satilik-arsa/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Instagram-Gönderisi-1080x1080-px-3-1-267x185.jpeg" class="post-image wp-post-image" alt="DEMİRÖRENDE SATILIK ARSA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/demirorende-satilik-arsa/" rel="bookmark" tabindex="-1">DEMİRÖRENDE SATILIK ARSA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">DEMİRÖREN KÖYÜ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Arsa</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="34" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire-2/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-1-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire-2/" rel="bookmark" tabindex="-1">ÜNALAN MH.DE SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="35" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire/" rel="bookmark" tabindex="-1">ÜNALAN MH.DE SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="36" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/cay-kenarinda-satilik-mustakil-ev/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/36ecffd7-af4a-458e-bd21-1cd6dca1686e_1024-267x185.png" class="post-image wp-post-image" alt="ÇAY KENARINDA SATILIK MÜSTAKİL EV (YENİ AŞEVİ YANI)" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/cay-kenarinda-satilik-mustakil-ev/" rel="bookmark" tabindex="-1">ÇAY KENARINDA SATILIK MÜSTAKİL EV (YENİ AŞEVİ YANI)</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">Köme Mahallesi</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Bina</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div><div class="item slick-slide slick-cloned" data-slick-index="37" aria-hidden="true" tabindex="-1" style="width: 265px;"><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/sekerevlerinde-satilik-21-daire-3/" tabindex="-1">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/9-1-267x185.png" class="post-image wp-post-image" alt="ŞEKEREVLERİNDE SATILIK 2+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/sekerevlerinde-satilik-21-daire-3/" rel="bookmark" tabindex="-1">ŞEKEREVLERİNDE SATILIK 2+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ATATÜRK</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 2+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: block;">Next</button></div>	</div>
+</section>
+<div class="anaside">
+<section class="home_widget kategori-yazilari-1"><div class="wrap"><h2 class="hbaslik">DAİRE<b> İLANLARI</b></h2><div class="kategori_yazilari">
+<div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/merkezde-satilik-41-daire/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Yeşil-Krem-Gayrimenkul-İnstagram-Gönderisi-1-267x185.png" class="post-image wp-post-image" alt="MERKEZDE SATILIK 4+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/merkezde-satilik-41-daire/" rel="bookmark">MERKEZDE SATILIK 4+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 4+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/nuri-seker-cd-uzeri-satilik-daire/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Kahverengi-sarı-modern-minimalist-kiralık-ve-satılık-daire-emlak-ilanları-instagram-gönderisi-267x185.png" class="post-image wp-post-image" alt="NURİ ŞEKER CD. ÜZERİ SATILIK DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/nuri-seker-cd-uzeri-satilik-daire/" rel="bookmark">NURİ ŞEKER CD. ÜZERİ SATILIK DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">SARAYALTI MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/sekerevlerinde-satilik-21-daire-3/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/9-1-267x185.png" class="post-image wp-post-image" alt="ŞEKEREVLERİNDE SATILIK 2+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/sekerevlerinde-satilik-21-daire-3/" rel="bookmark">ŞEKEREVLERİNDE SATILIK 2+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ATATÜRK</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 2+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/stadyum-karsisi-satilik-31-daire/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185(4).png" class="post-image wp-post-image" alt="STADYUM KARŞISI SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/stadyum-karsisi-satilik-31-daire/" rel="bookmark">STADYUM KARŞISI SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div>
+<div class="clear"></div></div></section><section class="home_widget kategori-yazilari-2"><div class="wrap"><h2 class="hbaslik">İŞ YERİ<b> İLANLARI</b></h2><div class="kategori_yazilari">
+<div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/stadyum-karsisi-satilik-31-daire/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185(4).png" class="post-image wp-post-image" alt="STADYUM KARŞISI SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/stadyum-karsisi-satilik-31-daire/" rel="bookmark">STADYUM KARŞISI SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post">
+<span class="turu">Kiralık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/mende-pazarinda-kiralik-dukkan/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/e5a18906-7eac-49d0-a3f8-8454daba6451-267x185.jpg" class="post-image wp-post-image" alt="MENDE PAZARI’NDA KİRALIK DÜKKAN (KİRAYA VERİLDİ)" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/mende-pazarinda-kiralik-dukkan/" rel="bookmark">MENDE PAZARI’NDA KİRALIK DÜKKAN (KİRAYA VERİLDİ)</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">MENDE PAZARI</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Kiralık İş Yeri</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post">
+<span class="turu">Kiralık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/dortyolda-kiralik-dukkanlar/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/ef3350e6-4dcf-4578-be99-e312596f883e_1024-267x185.png" class="post-image wp-post-image" alt="DÖRTYOLDA KİRALIK DÜKKANLAR (KİRAYA VERİLDİ)" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/dortyolda-kiralik-dukkanlar/" rel="bookmark">DÖRTYOLDA KİRALIK DÜKKANLAR (KİRAYA VERİLDİ)</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location"></div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Kiralık İş Yeri</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/2387-2/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/242901077_178567824420559_360113205811997380_n-267x185.gif" class="post-image wp-post-image" alt="İZMİR – ANKARA YOLU ÜZERİ SATILIK OFİS (SATILDI)" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/2387-2/" rel="bookmark">İZMİR – ANKARA YOLU ÜZERİ SATILIK OFİS (SATILDI)</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">Fevzi Çakmak Mahallesi</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık İş Yeri</span>
+		<span><b>Oda Sayısı</b> 1+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div>
+<div class="clear"></div></div></section><section class="home_widget kategori-yazilari-3"><div class="wrap"><h2 class="hbaslik">ARSA<b> İLANLARI</b></h2><div class="kategori_yazilari">
+<div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/bolmede-satilik-tarla/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Turuncu-ve-Beyaz-Sade-Emlak-Şirketi-Instagram-Gönderisi-267x185.png" class="post-image wp-post-image" alt="BÖLMEDE SATILIK TARLA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/bolmede-satilik-tarla/" rel="bookmark">BÖLMEDE SATILIK TARLA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">BÖLME</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Tarla</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/sorkunda-satilik-tarla-ve-bag-evi/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185(2).png" class="post-image wp-post-image" alt="SORKUNDA SATILIK TARLA VE BAĞ EVİ" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/sorkunda-satilik-tarla-ve-bag-evi/" rel="bookmark">SORKUNDA SATILIK TARLA VE BAĞ EVİ</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">SORKUN</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Tarla</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-cift-parsel/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Sade-Modern-Mavi-Zarif-Ev-İlanı-Instagram-Gönderisi-267x185.png" class="post-image wp-post-image" alt="FATİH MH.DE SATILIK ÇİFT PARSEL" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-cift-parsel/" rel="bookmark">FATİH MH.DE SATILIK ÇİFT PARSEL</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">FATİH MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Arsa</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/mende-koyunde-satilik-tarla/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Red-Navy-Blue-Real-Estate-Just-Sold-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="MENDE KÖYÜNDE SATILIK TARLA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/mende-koyunde-satilik-tarla/" rel="bookmark">MENDE KÖYÜNDE SATILIK TARLA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">MENDE KÖYÜ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Tarla</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div>
+<div class="clear"></div></div></section><section class="home_widget">
+	<div class="wrap">
+		<h2 class="hbaslik">SON <b>EKLENENLER</b></h2>
+		<div class="son_eklenenler">
+<div class="son_list"><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/merkezde-satilik-41-daire/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Yeşil-Krem-Gayrimenkul-İnstagram-Gönderisi-1-267x185.png" class="post-image wp-post-image" alt="MERKEZDE SATILIK 4+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/merkezde-satilik-41-daire/" rel="bookmark">MERKEZDE SATILIK 4+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 4+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/nuri-seker-cd-uzeri-satilik-daire/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Kahverengi-sarı-modern-minimalist-kiralık-ve-satılık-daire-emlak-ilanları-instagram-gönderisi-267x185.png" class="post-image wp-post-image" alt="NURİ ŞEKER CD. ÜZERİ SATILIK DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/nuri-seker-cd-uzeri-satilik-daire/" rel="bookmark">NURİ ŞEKER CD. ÜZERİ SATILIK DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">SARAYALTI MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/ulubey-yolu-uzeri-site-ici-satilik-31-daire/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Mavi-Modern-Emlak-ve-İnşaat-Ev-Satış-İlanı-Instagram-Gönderisi-1-267x185.png" class="post-image wp-post-image" alt="ULUBEY YOLU ÜZERİ SİTE İÇİ SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/ulubey-yolu-uzeri-site-ici-satilik-31-daire/" rel="bookmark">ULUBEY YOLU ÜZERİ SİTE İÇİ SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">KUYUCAK</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/izmir-yolu-uzeri-satilik-21-daire/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185(1).png" class="post-image wp-post-image" alt="İZMİR YOLU ÜZERİ SATILIK 2+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/izmir-yolu-uzeri-satilik-21-daire/" rel="bookmark">İZMİR YOLU ÜZERİ SATILIK 2+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 2+1</span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/bolmede-satilik-tarla/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Turuncu-ve-Beyaz-Sade-Emlak-Şirketi-Instagram-Gönderisi-267x185.png" class="post-image wp-post-image" alt="BÖLMEDE SATILIK TARLA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/bolmede-satilik-tarla/" rel="bookmark">BÖLMEDE SATILIK TARLA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">BÖLME</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Tarla</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/yuzbesevlerde-satilik-41-daire/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Orange-Modern-Real-Estate-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="YÜZBEŞEVLERDE SATILIK 4+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/yuzbesevlerde-satilik-41-daire/" rel="bookmark">YÜZBEŞEVLERDE SATILIK 4+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">CUMHURİYET MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 4+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-luks-daireler/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Mavi-Kırmızı-Dikkat-Çekici-Gayrimenkul-Instagram-Gönderisi-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK LÜKS DAİRELER" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-luks-daireler/" rel="bookmark">ÜNALAN MH.DE SATILIK LÜKS DAİRELER</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 1+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/sorkunda-satilik-tarla-ve-bag-evi/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185(2).png" class="post-image wp-post-image" alt="SORKUNDA SATILIK TARLA VE BAĞ EVİ" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/sorkunda-satilik-tarla-ve-bag-evi/" rel="bookmark">SORKUNDA SATILIK TARLA VE BAĞ EVİ</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">SORKUN</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Tarla</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-cift-parsel/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Sade-Modern-Mavi-Zarif-Ev-İlanı-Instagram-Gönderisi-267x185.png" class="post-image wp-post-image" alt="FATİH MH.DE SATILIK ÇİFT PARSEL" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-cift-parsel/" rel="bookmark">FATİH MH.DE SATILIK ÇİFT PARSEL</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">FATİH MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Arsa</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/kemaloz-mh-de-satilik-site-ici-41-daire/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/White-Gray-Modern-Real-Estate-Sale-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="KEMALÖZ MH.DE SATILIK SİTE İÇİ 4+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/kemaloz-mh-de-satilik-site-ici-41-daire/" rel="bookmark">KEMALÖZ MH.DE SATILIK SİTE İÇİ 4+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">KEMALÖZ MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 4+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/mende-koyunde-satilik-tarla/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Red-Navy-Blue-Real-Estate-Just-Sold-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="MENDE KÖYÜNDE SATILIK TARLA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/mende-koyunde-satilik-tarla/" rel="bookmark">MENDE KÖYÜNDE SATILIK TARLA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">MENDE KÖYÜ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Tarla</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-11-apart/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Brown-Simple-Real-Estate-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK 1+1 APART" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-11-apart/" rel="bookmark">ÜNALAN MH.DE SATILIK 1+1 APART</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 1+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-kose-arsa/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Green-Real-Estate-Promotion-Instagram-Post-267x185.png" class="post-image wp-post-image" alt="FATİH MH.DE SATILIK KÖŞE ARSA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/fatih-mh-de-satilik-kose-arsa/" rel="bookmark">FATİH MH.DE SATILIK KÖŞE ARSA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">FATİH MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Arsa</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/fevzi-cakmak-mh-de-satilik-21-daire/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185(3).png" class="post-image wp-post-image" alt="FEVZİ ÇAKMAK MH.DE SATILIK 2+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/fevzi-cakmak-mh-de-satilik-21-daire/" rel="bookmark">FEVZİ ÇAKMAK MH.DE SATILIK 2+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">FEVZİ ÇAKMAK MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 2+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/demirorende-satilik-arsa/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/Instagram-Gönderisi-1080x1080-px-3-1-267x185.jpeg" class="post-image wp-post-image" alt="DEMİRÖRENDE SATILIK ARSA" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/demirorende-satilik-arsa/" rel="bookmark">DEMİRÖRENDE SATILIK ARSA</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">DEMİRÖREN KÖYÜ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Arsa</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> </span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire-2/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-1-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire-2/" rel="bookmark">ÜNALAN MH.DE SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185.png" class="post-image wp-post-image" alt="ÜNALAN MH.DE SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/unalan-mh-de-satilik-31-daire/" rel="bookmark">ÜNALAN MH.DE SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN MAHALLESİ</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/cay-kenarinda-satilik-mustakil-ev/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/36ecffd7-af4a-458e-bd21-1cd6dca1686e_1024-267x185.png" class="post-image wp-post-image" alt="ÇAY KENARINDA SATILIK MÜSTAKİL EV (YENİ AŞEVİ YANI)" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/cay-kenarinda-satilik-mustakil-ev/" rel="bookmark">ÇAY KENARINDA SATILIK MÜSTAKİL EV (YENİ AŞEVİ YANI)</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">Köme Mahallesi</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Bina</span>
+		<span><b>Oda Sayısı</b> </span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/sekerevlerinde-satilik-21-daire-3/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/9-1-267x185.png" class="post-image wp-post-image" alt="ŞEKEREVLERİNDE SATILIK 2+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/sekerevlerinde-satilik-21-daire-3/" rel="bookmark">ŞEKEREVLERİNDE SATILIK 2+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ATATÜRK</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 2+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div><div class="emlak_post loadpost">
+<span class="turu">Satılık</span>
+<div class="postimg aligncenter">
+	<a href="https://www.usakkuzeyemlak.com/stadyum-karsisi-satilik-31-daire/">
+		<img width="267" height="185" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/1-267x185(4).png" class="post-image wp-post-image" alt="STADYUM KARŞISI SATILIK 3+1 DAİRE" itemprop="image">	</a>
+</div>
+<div class="post-wrap">
+	<h2 class="post-title">
+		<a href="https://www.usakkuzeyemlak.com/stadyum-karsisi-satilik-31-daire/" rel="bookmark">STADYUM KARŞISI SATILIK 3+1 DAİRE</a>
+	</h2>
+	<div class="post-desc">
+	<div class="icon-location">ÜNALAN</div>
+	<div class="ilan_info">
+		<span><b>Emlak Tipi</b> Satılık Daire</span>
+		<span><b>Oda Sayısı</b> 3+1</span>
+		<span><b>Krediye Uygun</b> Evet</span>
+	<div class="clear"></div>
+	</div>
+	</div>
+</div>
+</div></div>		</div>
+	</div>
+</section>
+</div>
+<footer id="footer">
+	<div class="altkisim section group">
+		<div class="wrap">
+		<div class="foowidget col span4">
+			<div class="temayan widget_text">			<div class="textwidget"><p><img class="alignnone size-full wp-image-147" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/usakkuzeyemlak.png" alt="" width="299" height="80"></p>
+</div>
+		</div>		</div>
+		<div class="foowidget col spanfoo">
+					<div class="temayan widget_recent_entries">		<div class="yankapsa"><div class="yanbaslik">Son Yazılar</div></div>		<ul>
+											<li>
+					<a href="https://www.usakkuzeyemlak.com/merkezde-satilik-41-daire/">MERKEZDE SATILIK 4+1 DAİRE</a>
+									</li>
+											<li>
+					<a href="https://www.usakkuzeyemlak.com/nuri-seker-cd-uzeri-satilik-daire/">NURİ ŞEKER CD. ÜZERİ SATILIK DAİRE</a>
+									</li>
+											<li>
+					<a href="https://www.usakkuzeyemlak.com/sekerevlerinde-satilik-21-daire-3/">ŞEKEREVLERİNDE SATILIK 2+1 DAİRE</a>
+									</li>
+											<li>
+					<a href="https://www.usakkuzeyemlak.com/stadyum-karsisi-satilik-31-daire/">STADYUM KARŞISI SATILIK 3+1 DAİRE</a>
+									</li>
+					</ul>
+		</div>		</div>
+		<div class="foowidget col spanfoo">
+			<div class="temayan widget_nav_menu"><div class="yankapsa"><div class="yanbaslik">Biz Kimiz</div></div><div class="menu-footer-2-container"><ul id="menu-footer-2" class="menu"><li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="https://www.usakkuzeyemlak.com/emlak-talep-formu/">Emlak Talep Formu</a></li>
+<li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="https://www.usakkuzeyemlak.com/hakkimizda/">Hakkımızda</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://www.usakkuzeyemlak.com/iletisim/">İletişim</a></li>
+</ul></div></div>		</div>
+		<div class="foowidget col spanfoo">
+			<div class="temayan widget_nav_menu"><div class="yankapsa"><div class="yanbaslik">Emlak</div></div><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-67" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67"><a href="https://www.usakkuzeyemlak.com/kategori/arazi/">Arazi</a></li>
+</ul></div></div>		</div>
+		</div>
+	</div>
+	<div class="copyright section group">
+	<div class="wrap">
+		<div class="sitedesc col span8">
+			© 2022 Uşak Kuzey Emlak		</div>
+		<div class="sosyalbaglanti col span4">
+					</div>
+	</div>
+	</div>
+	<div class="clear"></div>
+<a href="https://www.usakkuzeyemlak.com/#" id="yukari" title="Yukarı git"><i class="icon-up"></i></a>
+</footer>
+
+<div class="hizlimenu"> 
+			</div>
+
+
+<script src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/jquery.js.indir"></script>
+<div id="pum-728" class="pum pum-overlay pum-theme-724 pum-theme-enterprise-blue popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:728,&quot;slug&quot;:&quot;cadde-ertugrul&quot;,&quot;theme_id&quot;:724,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;auto&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;100&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true">
+
+	<div id="popmake-728" class="pum-container popmake theme-724">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<p><img class="alignnone wp-image-730 size-medium" src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/popup-300x300.png" alt="" width="300" height="300"></p>
+<p><a href="https://www.usakkuzeyemlak.com/premium">Detaylı Bilgi İçin Tıklayın</a></p>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			×            </button>
+		
+	</div>
+
+</div>
+<script>jQuery(document).ready(function($){
+	$( '.son_list' ).infiniteLoad({
+			'navSelector':'.sayfalama',
+			'contentSelector':'.son_list',
+			'nextSelector':'.sayfalama a',
+			'itemSelector':'.loadpost',
+			'paginationType':'more',
+			'loadingImage':'<i class="icon-spin2 animate-spin"></i> Yükleniyor',
+			'loadingButtonLabel':'Daha Fazla Göster',
+			'loadingButtonClass':'dahafazla',
+			'loadingFinishedText':'Gösterilecek içerik kalmadı.',
+		}								  
+	);
+});</script>
+
+
+			<!-- Mobile Call Now and Map Buttons -->
+			<div id="rpb_spacer"></div>
+			<div id="rpb">
+				<div>
+					<a href="tel:05066066483" id="call_now" onclick=" ga(&#39;send&#39;, &#39;event&#39;, &#39;Phone Call&#39;, &#39;Click to Call&#39;, &#39;05066066483&#39;); ">
+						<span class="dashicons dashicons-phone"></span> Tıkla Ara!
+					</a>
+				</div>
+				<div>
+					<a href="https://api.whatsapp.com/send?phone=905066066483&amp;text=Merhaba!%20(usakkuzeyemlak.com%27dan%20g%C3%B6nderildi.)" id="map_now" target="_Blank">
+						 Whatsapp
+					</a>
+				</div>
+			</div>
+			<style>
+				@media screen and (max-width: 768px) {
+				div#rpb { display: flex !important; background: #1a1919; }
+				div#rpb_spacer { display: block !important; }
+				}
+				div#rpb { background: #1a1919; }
+			    div#rpb div a#call_now { background: #0c3; color: #fff; }
+				div#rpb div a#map_now { background: #fc3; color: #fff; }
+			</style>
+			<!-- /Mobile Call Now and Map Buttons -->
+
+<link rel="stylesheet" id="TemaVadisi_custom_css-css" href="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/custom.css" media="all">
+<style id="TemaVadisi_custom_css-inline-css" type="text/css">
+body {font-family:'Source Sans Pro', sans-serif;font-size:16px;}a {font-family:'Quicksand', sans-serif;}a:hover, .hbaslik b, .emlak_post .icon-location, .emlakinfo i, .danisman span:before, .emlak_post.blog .icon-clock:before, .yanbaslik b, .emlakinfo h3 b, .yazi_paylas span, .ilanaciklama h2 b, .ozellikleri li.active:before {color:#2e65d3;}h1, h2, h3, h4, h5, h6 {font-family:'Quicksand', serif;}input[type=submit]:hover, .mobil_menu, .slick-next:hover:before, .slick-prev:hover:before, .turu, .emlakinfo li.telefon,.kredi_hesaplama .sonuc, .kredi_hesaplama .sonuc:before {background-color:#2e65d3;}textarea:active, textarea:focus, input[type=text]:active, input[type=url]:active, input[type=tel]:active, input[type=email]:active,input[type=search]:active, input[type=text]:focus, input[type=url]:focus, input[type=tel]:focus, select:hover, input[type=email]:focus, input[type=search]:focus,[type="number"]:hover {border-color:#2e65d3 !important;}input[type=submit], button[type=submit], .dahafazla {background-color:#2e65d3;}#head {background-color:#ffffff;}#navmenu a {font-family:'Quicksand', serif;color:#444444;}#navmenu a:hover {color:#2e65d3 !important;}.anaarama {background-image:url(https://www.usakkuzeyemlak.com/wp-content/uploads/2022/06/Frame-1-2.png);}.commentlist li.comment-author-admin .fn:before {color:#2e65d3;}.comment-pagination .page-numbers:hover, .comment-pagination .current {background:#2e65d3;}.altkisim {background:#333 url(https://www.usakkuzeyemlak.com/wp-content/themes/vadiemlak/img/footerback.jpg);color:#aaa;background-size:cover;}.altkisim a {color:#aaa;}.copyright {background:#292929;color:#aaa;}.copyright a {color:#aaa;}#yukari {background:#2e65d3;}#yukari:hover {color:#2e65d3;}.yazi_baslik {background-image:url(https://www.usakkuzeyemlak.com/wp-content/themes/vadiemlak/img/footerback.jpg);background-color:#374252;}.yazi_baslik, .yazi_baslik h1, .yazi_baslik a {color:#fff;text-shadow:1px 1px 1px #000;}
+</style>
+<link rel="stylesheet" id="rpb_css-css" href="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/rpb.css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/dashicons.min.css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.usakkuzeyemlak.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/scripts.js.indir"></script>
+<script src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/slick.min.js.indir"></script>
+<script src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/superfish.min.js.indir"></script>
+<script src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/scripts(1).js.indir"></script>
+<script src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/jquery.infiniteload.js.indir"></script>
+<script src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/jquery.magnific-popup.min.js.indir"></script>
+<script src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/core.min.js.indir"></script>
+<script src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/position.min.js.indir"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.8.11","ajaxurl":"https:\/\/www.usakkuzeyemlak.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.usakkuzeyemlak.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"722","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[]};
+var ajaxurl = "https:\/\/www.usakkuzeyemlak.com\/wp-admin\/admin-ajax.php";
+var pum_debug_vars = {"debug_mode_enabled":"Popup Maker: Debug Mode Enabled","debug_started_at":"Debug started at:","debug_more_info":"For more information on how to use this information visit https:\/\/docs.wppopupmaker.com\/?utm_medium=js-debug-info&utm_campaign=ContextualHelp&utm_source=browser-console&utm_content=more-info","global_info":"Global Information","localized_vars":"Localized variables","popups_initializing":"Popups Initializing","popups_initialized":"Popups Initialized","single_popup_label":"Popup: #","theme_id":"Theme ID: ","label_method_call":"Method Call:","label_method_args":"Method Arguments:","label_popup_settings":"Settings","label_triggers":"Triggers","label_cookies":"Cookies","label_delay":"Delay:","label_conditions":"Conditions","label_cookie":"Cookie:","label_settings":"Settings:","label_selector":"Selector:","label_mobile_disabled":"Mobile Disabled:","label_tablet_disabled":"Tablet Disabled:","label_event":"Event: %s","triggers":{"click_open":"Click Open","auto_open":"Time Delay \/ Auto Open"},"cookies":{"on_popup_close":"On Popup Close","on_popup_open":"On Popup Open","pum_sub_form_success":"Subscription Form: Successful","pum_sub_form_already_subscribed":"Subscription Form: Already Subscribed","manual":"Manual JavaScript","cf7_form_success":"Contact Form 7 Success"}};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.usakkuzeyemlak.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-728":{"disable_on_mobile":false,"disable_on_tablet":false,"custom_height_auto":false,"scrollable_content":false,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_id":"724","size":"auto","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height":"380px","animation_type":"fade","animation_speed":"350","animation_origin":"center top","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","zindex":"1999999999","close_button_delay":"100","triggers":[],"cookies":[],"theme_slug":"enterprise-blue","id":728,"slug":"cadde-ertugrul"}};
+/* ]]> */
+</script>
+<script src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/pum-site-scripts.js.indir"></script>
+<script src="./Uşak Kuzey Emlak - Uşak Emlak İlanları - Uşak Kuzey Emlak_files/wp-embed.min.js.indir"></script>
+
+</body></html>
